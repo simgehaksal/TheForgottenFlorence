@@ -4,6 +4,7 @@ Calcifer, but this time Howl does not exist until the end of the story because h
 to be a powerful witch, but she is still inexperienced and needs the training to master her skills. Suddenly, a new colored sector has
 appeared on the magic door because of Calcifer's treacherous and unaccounted sibling, Zeppy. Then the thing inside the door forces them
 (pulls them) inside to it. Because of that Sophie and Calcifer go in a thing like a blackhole.
+
 Sophie and Calcifer find themselves in a land which is called The Forgotten Florence. They will face some difficulties like enemies and
 obstacles to know that where Howl is. Although they have a lot of challenges, they think they can find Howl’s place by using their
 intelligence and magical powers.  In this way, you can complete the mission successfully which the King of The Forgotten Florence, Mario
