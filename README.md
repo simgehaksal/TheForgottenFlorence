@@ -1,3 +1,5 @@
+This Level&Game Design document takes its story from the movie and book of the Howl's Moving Castle. It is the extension of the original story. I created a level for the continuation of the story of the former characters. After checking the original story, you can read "README" to understand the new adventure.
+
 # TheForgottenFlorence
 
 “The Forgotten Florence” is a third person, single player, adventure, role playing game. It tells about the new adventure of Sophie and Calcifer, but this time Howl does not exist until the end of the story because he has disappeared. During this period, Sophie has realized to be a powerful witch, but she is still inexperienced and needs the training to master her skills. Suddenly, a new colored sector has appeared on the magic door because of Calcifer's treacherous and unaccounted sibling, Zeppy. Then the thing inside the door forces them (pulls them) inside to it. Because of that Sophie and Calcifer go in a thing like a blackhole.
